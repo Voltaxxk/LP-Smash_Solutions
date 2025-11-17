@@ -1,30 +1,30 @@
 [
   {
-    "title": "Powering Growth.<br>Simplifying Success.",
-    "sector": "Web design",
-    "content": "<strong>Our custom web design solution helped Biotechlet Ltd elevate its digital presence with a clean, modern interface and intuitive user experience. </strong> <br><br>The redesigned site streamlined user journeys, improved accessibility, and strengthened brand credibility.",
+    "title": "Fortaleciendo crecimiento.<br>Simplificando exito.",
+    "sector": "Desarrollo web",
+    "content": "<strong>Nuestro desarrollo web adaptado a cada cliente crea una experiencia unica</strong> <br><br>Cada cliente tiende a proyectar su propio diseño, nuestro equipo se encarga de hacerlo realidad y asi fortalecer su marca y credibilidad.",
     "case_study_link": "https://www.spike.news",
-    "cta": "Visit spike.news",
+    "cta": "Agenda con nosotros",
     "image": "/content-images/spike.news.avif",
-    "image_alt": "iPad showing spike.news website",
+    "image_alt": "Desarrollo web de smash solutions",
     "bg": "bg-gradient-to-r from-indigo-500 to-purple-600"
   },
   {
-    "title": "Accelerating Innovation.<br>Empowering Results.",
-    "sector": "Development",
-    "content": "Our dynamic design and build simplified productivity, delivering automated solutions, seamless collaboration, and data-driven insights",
+    "title": "Soporte equipos.",
+    "sector": "Soporte tecnico",
+    "content": "Nuestros expertos se encargan de mantener tus equipos trabajando de la manera mas eficiente y productiva, brindando soluciones preventivas y correctivas para mantener a tus equipos en condiciones optimas.",
     "case_study_link": "https://pixelate.pictures",
-    "cta": "Visit pixelate.pictures",
+    "cta": "Agenda con nosotros",
     "image": "/content-images/pixelate.pictures.avif",
     "image_alt": "iPad showing pixelated wave painting",
     "bg": "bg-gradient-to-r from-fuchsia-500 to-cyan-500"
   },
   {
-    "title": "Enhance productivity,<br>boost efficiency.",
-    "sector": "3D Design",
-    "content": "Create, collaborate, and render — all in one streamlined workflow. Teams are connected and producing stunning visuals in minutes.",
+    "title": "Soluciones IT.",
+    "sector": "IT",
+    "content": "Analizamos, investigamos, adaptamos y optimizamos cualquier tecnologia para que tu te relajes mientras nosotros solucionamos tus problemas.",
     "case_study_link": "https://www.brighton.dog",
-    "cta": "Visit brighton.dog",
+    "cta": "Agenda con nosotros",
     "image": "/content-images/brighton.dog.avif",
     "image_alt": "iPad showing the web page of brighton.dog",
     "bg": "bg-gradient-to-r from-pink-500 to-yellow-500"

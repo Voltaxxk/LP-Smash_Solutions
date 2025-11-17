@@ -49,6 +49,19 @@ export default defineConfig({
           src: ["./src/assets/fonts/InterDisplay-SemiBold.woff2"]
         }
       ]
-    }]
+    },
+    {
+      provider: "local",
+      name: "BebasNeue",
+      cssVariable: "--font-bebas-neue",
+      variants: [
+        {
+          weight: 400,
+          style: "normal",
+          src: ["./src/assets/fonts/BebasNeue-Regular.ttf"]
+        },
+      ]
+    }
+    ]
   }
 })

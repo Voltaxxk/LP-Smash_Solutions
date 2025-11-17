@@ -1,14 +1,14 @@
 {
-  "hero_title": "blackspike astro landing page",
-  "hero_content": "<p><strong>A free Astro landing theme made with Tailwind</strong> to help kick start your Astro website.</p><p>Uses modern CSS and HTML features for added zip, plus a slick swiper carousel. All in Astro JSX.</p>",
-  "services_title": "Our services",
+  "hero_title": "Potencia tu mundo digital con Smash Solutions",
+  "hero_content": "<p><strong>Creamos experiencias web, desarrollamos aplicaciones y optimizamos tu tecnología para que tu negocio funcione sin límites.</strong></p>",
+  "services_title": "Nuestros servicios",
   "clients_title": "Trusted by some great companies",
-  "testimonials_title": "Clients ♥ us",
-  "case_studies_title": "Case studies",
-  "pricing_title": "We do design retainers",
-  "quote_content": "This <strong>design agency</strong> is a <strong>game changer</strong>. Its <strong>creative vision</strong>, <strong>user-focused approach</strong>, and <strong>seamless collaboration</strong> have <strong>transformed</strong> the way we <strong>build our brand</strong>. It’s <strong>not just an agency</strong> — it’s a <strong>powerful partner</strong> that <strong>delivers real results</strong>.",
-  "quote_cite": "Sean Higgins",
-  "quote_role": "CTO, Interia",
-  "quote_image": "/content-images/quote-man.avif",
-  "faq_title": "Frequently Asked Questions"
+  "testimonials_title": "Clientes nos ♥ ",
+  "case_studies_title": "Que hemos hecho",
+  "pricing_title": "Acerca de nosotros",
+  "quote_content": "Esta <strong>agencia</strong> yo la <strong>recomiendo</strong>. Realiza muy bien su trabajo y siempre está <strong>disponible</strong> para cualquier duda o consulta que pueda surgir. ¡Un 10 en todo!",
+  "quote_cite": "Azalia Velasquez",
+  "quote_role": "Owner, Artesanias Babahoyo",
+  "quote_image": "/content-images/woman-quote.avif",
+  "faq_title": "Preguntas frecuentes"
 }

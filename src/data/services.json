@@ -1,30 +1,30 @@
 [
   {
-    "title": "We create timeless visual identities for modern brands.",
-    "content": "<strong>Great companies are built on their ability to adapt and grow.</strong> We create brands that will adapt and flourish no matter where the market takes you.",
-    "cta": "Call us about branding",
-    "image": "/content-images/blackspike-wallpaper-01.avif",
-    "image_alt": ""
+    "title": "Desarrollo web.",
+    "content": "<strong>Grasndes compañias tienen la habilidad de adaptarse.</strong> Creamos paginas para que tu negocio funcione sin limites y que atraigan a tus clientes.",
+    "cta": "Agenda con nosotros",
+    "image": "/content-images/webDesing.webp",
+    "image_alt": "Desarrollo web"
   },
   {
-    "title": "We design websites that drive conversions and delight users.",
-    "content": "<strong>Experts in imagining future interfaces and experiences.</strong> From UX to creative to analytics, we are there every step of the way.",
-    "cta": "Book a website review call",
-    "image": "/content-images/blackspike-wallpaper-02.avif",
-    "image_alt": ""
+    "title": "Soporte equipos.",
+    "content": "<strong>Deja en manos expertas tus equipos</strong> Ofrecemos servicio de acciones preventivas y correctivas para mantener tus equipos en óptimas condiciones.",
+    "cta": "Agenda soporte con nosotros",
+    "image": "/content-images/SoporteEquipos.webp",
+    "image_alt": "Soporte equipos"
   },
   {
-    "title": "Design across all dimensions",
-    "content": "<strong>Outstanding 3D design and concepts.</strong> We provide top-of-the-line 3D modelling services delivered by our skilled team of 3D artists.",
-    "cta": "Our 3D Services",
-    "image": "/content-images/blackspike-wallpaper-03.avif",
-    "image_alt": ""
+    "title": "Emsamblaje de equipos",
+    "content": "<strong>Sacamos tu mejor potencial.</strong> En Smash Solutions, diseñamos y construimos tus equipos para que puedan trabajar de manera eficiente y productiva.",
+    "cta": "Agenda un ensamble con nosotros",
+    "image": "/content-images/emsamblePC.webp",
+    "image_alt": "Emsamblaje de equipos"
   },
   {
-    "title": "Apps for all devices and seasons",
-    "content": "<strong>We help companies supercharge their apps by providing world-class, effective design.</strong> Best practice design processes for your products",
-    "cta": "Arrange an app demo",
+    "title": "Soluciones IT",
+    "content": "<strong>Ponemos nuestros expertos a tu disposición.</strong> Consulta con nuestro equipo de profesionales para encontrar las mejores soluciones tecnológicas adaptadas a tus necesidades.",
+    "cta": "Consulta con nosotros",
     "image": "/content-images/blackspike-wallpaper-04.avif",
-    "image_alt": ""
+    "image_alt": "Soluciones IT"
   }
 ]

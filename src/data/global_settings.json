@@ -4,22 +4,22 @@
   "social_image": "/1200x630.jpg",
   "base_url": "https://astro-theme.blackspike.com",
   "demo": {
-    "title": "Need design?",
+    "title": "¿Necesitas ayuda?",
     "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
-    "cta": "Book a call"
+    "cta": "Agenda una consulta"
   },
   "theme_color": "#18181b",
   "nav": [
     {
-      "title": "Services",
+      "title": "Servicios",
       "link": "/#services"
     },
     {
-      "title": "Case studies",
+      "title": "Caso de estudios",
       "link": "/#case-studies"
     },
     {
-      "title": "Pricing",
+      "title": "Nosotros",
       "link": "/#pricing"
     },
     {

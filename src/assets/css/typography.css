@@ -2,7 +2,7 @@
 @reference "./global.css";
 
 .bs-h1 {
-  @apply font-display font-medium text-balance text-5xl md:text-6xl;
+  @apply font-bebas-neue font-medium text-balance text-5xl md:text-6xl;
 }
 
 .bs-h2 {
@@ -11,6 +11,10 @@
 
 .bs-h3 {
   @apply font-display font-medium text-balance text-lg md:text-2xl;
+}
+
+.bs-h4 {
+  @apply font-display font-medium text-balance text-md md:text-xl;
 }
 
 .bs-body-text {
