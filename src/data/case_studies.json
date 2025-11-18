@@ -5,7 +5,7 @@
     "content": "<strong>Nuestro desarrollo web adaptado a cada cliente crea una experiencia unica</strong> <br><br>Cada cliente tiende a proyectar su propio diseño, nuestro equipo se encarga de hacerlo realidad y asi fortalecer su marca y credibilidad.",
     "case_study_link": "https://www.spike.news",
     "cta": "Agenda con nosotros",
-    "image": "/content-images/spike.news.avif",
+    "image": "/content-images/webDesignC.webp",
     "image_alt": "Desarrollo web de smash solutions",
     "bg": "bg-gradient-to-r from-indigo-500 to-purple-600"
   },
@@ -15,7 +15,7 @@
     "content": "Nuestros expertos se encargan de mantener tus equipos trabajando de la manera mas eficiente y productiva, brindando soluciones preventivas y correctivas para mantener a tus equipos en condiciones optimas.",
     "case_study_link": "https://pixelate.pictures",
     "cta": "Agenda con nosotros",
-    "image": "/content-images/pixelate.pictures.avif",
+    "image": "/content-images/soporteEquiposC.webp",
     "image_alt": "iPad showing pixelated wave painting",
     "bg": "bg-gradient-to-r from-fuchsia-500 to-cyan-500"
   },
@@ -25,7 +25,7 @@
     "content": "Analizamos, investigamos, adaptamos y optimizamos cualquier tecnologia para que tu te relajes mientras nosotros solucionamos tus problemas.",
     "case_study_link": "https://www.brighton.dog",
     "cta": "Agenda con nosotros",
-    "image": "/content-images/brighton.dog.avif",
+    "image": "/content-images/solucionesITC.webp",
     "image_alt": "iPad showing the web page of brighton.dog",
     "bg": "bg-gradient-to-r from-pink-500 to-yellow-500"
   }
